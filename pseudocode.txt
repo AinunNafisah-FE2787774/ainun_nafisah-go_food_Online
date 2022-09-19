@@ -6,3 +6,7 @@ READ "Login"
 READ "selected_Menu"
 READ "selected_search_restaurant"
 READ "selected_food"
+
+READ AND WRITE "total_food"
+STORE "total_cost" with CALCULATE "total_food" multiply by "food_price"
+DISPLAY "total_cost"
