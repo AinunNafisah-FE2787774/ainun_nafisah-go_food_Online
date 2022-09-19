@@ -10,3 +10,9 @@ Manfaat adanya Aplikasi ini bagi pengguna ialah Lebih hemat tenaga, Keuntungan p
 #### ~ Flowchart.drawio
 #### ~ Pseudocode.txt
 
+
+### Di Buat Oleh :
+##### ~ Nama  : 'Ainun Nafisah
+##### ~ ID Camp   : FE2787774
+##### ~ House : FE06
+
