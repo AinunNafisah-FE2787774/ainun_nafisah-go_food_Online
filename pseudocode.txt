@@ -1,3 +1,8 @@
 Program go_food_online
 
 DISPLAY "Display Start App"
+
+READ "Login"
+READ "selected_Menu"
+READ "selected_search_restaurant"
+READ "selected_food"
