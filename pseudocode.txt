@@ -10,3 +10,17 @@ READ "selected_food"
 READ AND WRITE "total_food"
 STORE "total_cost" with CALCULATE "total_food" multiply by "food_price"
 DISPLAY "total_cost"
+
+READ AND WRITE "address"
+
+READ CHECKOUT_ORDER
+READ "payment_method"
+
+IF payment_method EQUAL "cash"
+    READ "ORDER FOOD"
+ELSE IF payment_method EQUAL "GOPAY"
+    READ "GOPAY PAYMENT"
+END IF
+
+
+
